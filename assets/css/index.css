@@ -111,7 +111,7 @@ body {
     padding-left: 1.2rem;
     padding-right: 0.8rem; }
     .container .main .info-unit ul li {
-      margin-bottom: 1rem;
+      margin-bottom: 0.2rem;
       list-style: disc; }
       .container .main .info-unit ul li h3 .link {
         font-size: .5rem;
