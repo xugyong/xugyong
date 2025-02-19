@@ -90,7 +90,8 @@ body {
         display: none;
         width: 8rem;
         height: 8rem;
-        border-radius: 50%; }
+        border-radius: 50%;
+         }
   .container .side .info-unit ul li label {
     display: inline-block;
     width: 35%; }
